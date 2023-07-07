@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "#cobblemon:is_river",
+	"#cobblemon:is_swamp",
+  {
+    "id": "atmospheric:rainforest_basin",
+    "required": false
+  },
+  {
+    "id": "atmospheric:sparse_rainforest_basin",
+    "required": false
+  }
+  ]
+}

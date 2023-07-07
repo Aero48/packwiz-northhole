@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+	"#cobblemon:is_arid",
+	"#cobblemon:is_frigid",
+	"#cobblemon:is_mountain",
+	"#cobblemon:is_mushroom",
+	"#cobblemon:is_taiga",
+	{
+      "id": "terralith:skylands_autumn",
+      "required": false
+    },
+    {
+      "id": "autumnity:maple_forest",
+      "required": false
+    },
+    {
+      "id": "autumnity:pumpkin_fields",
+      "required": false
+    }
+  ]
+}

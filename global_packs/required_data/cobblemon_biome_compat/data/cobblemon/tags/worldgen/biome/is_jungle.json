@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:is_jungle",
+    {
+      "id": "terralith:underground_jungle",
+      "required": false
+    },
+    {
+      "id": "atmospheric:rainforest",
+      "required": false
+    },
+    {
+      "id": "atmospheric:rainforest_basin",
+      "required": false
+    },
+    {
+      "id": "atmospheric:sparse_rainforest",
+      "required": false
+    },
+    {
+      "id": "atmospheric:sparse_rainforest_basin",
+      "required": false
+    }
+  ]
+}

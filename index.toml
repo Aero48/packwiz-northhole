@@ -1,6 +1,930 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/abnormals_delight-common.toml"
+hash = "135425bd7d8259fe1a42a2fce422b0ad25946ca8ba8bb399dd03527b76ea484f"
+
+[[files]]
+file = "config/atmospheric-client.toml"
+hash = "9f394f30e17b71de1cbaa929863e03b7e87d4a9c4be2c58f07b2cb4227ebff65"
+
+[[files]]
+file = "config/autumnity-common.toml"
+hash = "b6418057277dd2b84565c05d902345ed383bb708ed1351d39c14800026bd542f"
+
+[[files]]
+file = "config/berry_good-common.toml"
+hash = "063288c23cc0302177b68b487872ea9cdd3d3d5f916ddf47d1dcd393cc4a56fa"
+
+[[files]]
+file = "config/blueprint-client.toml"
+hash = "89ef9f568d793018db983b9f944e85876a4cebd408f8f4d2182b3c38fa44ef7e"
+
+[[files]]
+file = "config/blueprint-common.toml"
+hash = "d335fd00458005d989d55a6615073d5b390ea08d5e1d129229518f90d5d3ef9b"
+
+[[files]]
+file = "config/buzzier_bees-common.toml"
+hash = "d5ced1e70770f0b38f9ff0ba4d394ba5ef3ba9cb3e9701808abbc26858bd3a99"
+
+[[files]]
+file = "config/canary.properties"
+hash = "a37eb7f218ab61f3277a103a85c5bd14ff0abe0dff94e17883bcbb5ea28a3855"
+
+[[files]]
+file = "config/clayworks-common.toml"
+hash = "cf93a7fc318da2707cbfb2f573b7a5f3ff1b9aeff87d5696c852b28f1f0e7514"
+
+[[files]]
+file = "config/cobblemon/main.json"
+hash = "4397304d6a3b078f34474945e53aa7bf2d9c4de8dc7de181251005e7b062604b"
+
+[[files]]
+file = "config/create-client.toml"
+hash = "667b50af91a4312360fac0502a25f9497e745e3e321b297ed4efb6e257e81db4"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "5ecbf2bd9577f059760c02b37d8931b5fbec5567bd1190f943b19b5e3a493a8c"
+
+[[files]]
+file = "config/create_central_kitchen-common-1.toml.bak"
+hash = "ad27653a034209b88f9fa0c0e83c8ed9306daa36365fc0076542dc70857bb1d1"
+
+[[files]]
+file = "config/create_central_kitchen-common.toml"
+hash = "ad27653a034209b88f9fa0c0e83c8ed9306daa36365fc0076542dc70857bb1d1"
+
+[[files]]
+file = "config/emi.css"
+hash = "151c17bdcbef0232357051435f2c8f4ef1b7e3e1201330331446faead7738b6e"
+
+[[files]]
+file = "config/emotecraft.json"
+hash = "06c7f2b1b3288430e0e99a66429230bc185c22d6eb257cd068e51ede752fb8a1"
+
+[[files]]
+file = "config/emotecraft_emote_map.json"
+hash = "0ce5a209870e0673c14f68d4581de2cefc67a3c37aa7071c943b711a69835775"
+
+[[files]]
+file = "config/environmental-common.toml"
+hash = "3b126d621ce8ffac1dbaf0a40cab5d32501415090d8f4b38ef4ed6524adc9a3a"
+
+[[files]]
+file = "config/everycomp-common.toml"
+hash = "e8fb47e39698228e5174579c31e8b97aa632c37eccebe83b48ff7f428fcce947"
+
+[[files]]
+file = "config/everycomp-wood_types.toml"
+hash = "38742c71ddc71d6bdce85dae9ed1bb4f03692b146f4b167bfb3bcaef4d6a2ca0"
+
+[[files]]
+file = "config/farmersdelight-client.toml"
+hash = "e5f8f5743c23e6c1e569070d720f91e66495e8da03550a0d37d9a07c6d543014"
+
+[[files]]
+file = "config/farmersdelight-common.toml"
+hash = "bb025f3ba2615e9a50d885c3e220fdb4bf98141c7e4b1680c717e51fcf392789"
+
+[[files]]
+file = "config/fastsuite.cfg"
+hash = "17f86b4b514aed2b2e305a35e82a9991974b81bac5bd02390bb357a0f6713514"
+
+[[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "fab938297f4226f9e13a5164ffdb94ae1e0e572d1fab3d5d13e4cfaa0a44f628"
+
+[[files]]
+file = "config/flywheel-client.toml"
+hash = "0d0e22785b8811b4010b7cf39f78fcfb25e31e70558176a52cb9e95ea9202c8f"
+
+[[files]]
+file = "config/fml.toml"
+hash = "eb5434c7520284945763f461841e91da86895a70324e13218a07824f81e5ec87"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "534d9fc367bb58ded17ad2820df913dee00eb6e64ef9270c3a8e491db585f548"
+
+[[files]]
+file = "config/forge-common.toml"
+hash = "a440d2a7ce939ef3c462475555a9a188263aebdbf13db600de3f01d9d312970c"
+
+[[files]]
+file = "config/global_data_and_resourcepacks.toml"
+hash = "d6055224690c399a9657218b8fcb9fa2ff1f33a5f83e7a383f4b6aae835938d5"
+
+[[files]]
+file = "config/jei/blacklist.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/jei/jei-colors.ini"
+hash = "c6328dcf3fb8b20a9f6ea6b61266ce289565c167353e183a105fb4915c36c072"
+
+[[files]]
+file = "config/jei/jei-debug.ini"
+hash = "24f1a0313b8ae9b6bf450d962640312613fd0f9e9a21a26756b85a6b5ee3d46d"
+
+[[files]]
+file = "config/jei/jei-mod-id-format.ini"
+hash = "34eb990ae2cf62220a0d1be95629bcac46e6732f1cd6f7b6fdc54bcae02916e5"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+hash = "f038f6e949546024eed53f1416e7fafd57e4b5c739646fbe78bc8eb1536f515f"
+
+[[files]]
+file = "config/modernfix-common.toml"
+hash = "fad9aea710ec3508eab562cd8f2b5f8e2dda6ee1c5fb1fe818f90ce253017f66"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "ab15627f740c4b6d9eb03062b6b999d3eb582a69344b179c843be6a5d87920db"
+
+[[files]]
+file = "config/neapolitan-common.toml"
+hash = "a23d61a0d31f12af9e45f1b35d63cf7744a2eb7362aae88ae75337ac007a5b19"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "404d73a5d2d672216abdd5541cb97a4b53c7098df0220537e6bf28cc0fcc3e89"
+
+[[files]]
+file = "config/rubidium-mixins.properties"
+hash = "66bbef3dd895941e28db52d85ef5e8a1ecda6dc26377a47ff6dc623ece2f73fa"
+
+[[files]]
+file = "config/rubidium-options.json"
+hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
+
+[[files]]
+file = "config/rubidium_extras.toml"
+hash = "11499d2b7dcd86cd2e1093a351b6727e79073bafb4604c828e6260258b254fbf"
+
+[[files]]
+file = "config/savage_and_ravage-client.toml"
+hash = "e441a4d0d6f8ca65617c56691c044351fd49da819a39b251e8389d1a9be7e990"
+
+[[files]]
+file = "config/savage_and_ravage-common.toml"
+hash = "aa00138ee255bee871c5579b6c7799952e1624aafdaa03b05c9c1cfebfd747b3"
+
+[[files]]
+file = "config/sophisticatedbackpacks-common.toml"
+hash = "6674ec92f625296aa8accc93d71fdf1eecfc8050111c5ae7b6d9a94b4fe14506"
+
+[[files]]
+file = "config/sophisticatedcore-client.toml"
+hash = "48e045efb78607ff217eb278f817f1036039d99e38715ef9a9c6e1f5bafbc24c"
+
+[[files]]
+file = "config/supplementaries-client.toml"
+hash = "ec4032feed63fee6e64293d802acef77e0cf1bd68b8fa35d6282d439144dec29"
+
+[[files]]
+file = "config/supplementaries-common.toml"
+hash = "2aa566eb24d01921215448b47f60aeef9432669edfb8acc1ec71d4da39b20f9a"
+
+[[files]]
+file = "config/toastcontrol-common.toml"
+hash = "b0976505b1e84813c804b645fe0988fc1fc68bd1e0350db6cbc3fa2698d77587"
+
+[[files]]
+file = "config/travelersbackpack-client.toml"
+hash = "1006defaeddb1f7926c36422e18dd387d713584bf3313d4555e09af492e30684"
+
+[[files]]
+file = "config/travelersbackpack-common.toml"
+hash = "d9e803648cc1d86ec47cd2a171268d72310f2e7483d616977186ce6d31e145d1"
+
+[[files]]
+file = "config/upgrade_aquatic-client.toml"
+hash = "815f751451060fcf358b949699d9fb4a171d7f85a75fffa8390fb693002d6aca"
+
+[[files]]
+file = "config/upgrade_aquatic-common.toml"
+hash = "8d06514842bc7cd032695ccc25a107f864cde909e3fd317ce91a2bdc24209b97"
+
+[[files]]
+file = "config/voicechat-client.toml"
+hash = "24a7b91377e08d0d8bc2805793c8150d473241aa816cbaa6fca9d254aa537ca5"
+
+[[files]]
+file = "config/voicechat/translations.properties"
+hash = "b8215b84232be41438ffb7c7304b57b0677c9cad49b717db59900872080adf20"
+
+[[files]]
+file = "config/voicechat/username-cache.json"
+hash = "e7906906fc8baf09ee5ff5407223d31039a04cbb4798b0b874223204de9e489f"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "e1b129f3bcb1cade25df0de3e206a2ee3dc7d39b33a202ea731e2d15d8fdde57"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "8d7966b778d64bb7f02629f6b37e276b0750763dd90d6b4531f289a499024b26"
+
+[[files]]
+file = "config/woodworks-common.toml"
+hash = "607a8880f3c5fa9e0d0e5eb33bf3126f8e7f89fc8bb520f476cf07ff24f6ad12"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "d5484ebc2b133fc55c3b30870d8d2bcc34dc000a64ed4415107337e273db9882"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "17213afc7a56202160af09cb64f3632c243a87da8382a658d8a296e1d7103c35"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "36a890045fce4aa69f1c550d5a49a62b336cbb7911a7afa6956fcce5d4d9dcb8"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "e40498f0e097f655770fc8698567618b62322088abc98d863f0a80ba69a239bf"
+
+[[files]]
+file = "emi.json"
+hash = "0f2dc80e2259dcc6ca5c7cdf98bf6d771cc6e24bfd1642081678c53c1039c63d"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/has_feature/apricorns_dense.json"
+hash = "e1494d172497a3736efbd6b491f4f138e800251bddba52c8daaff42762055e82"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/has_feature/apricorns_normal.json"
+hash = "ea6c35e4827d5fd60cfe28b074c3a3ff0669b39a977a460325be5c281bcbab18"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/has_feature/apricorns_sparse.json"
+hash = "7073cc4455b0ea625ceb5687e4049687a34af3846f97f6d5410d31a9e7fdc561"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/has_ore/ore_dawn_stone_normal.json"
+hash = "38fa427f0ca264cec84c3a32b4f30888fa160ff7343dfacd6dd38d9e5570366f"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/has_ore/ore_dawn_stone_rare.json"
+hash = "9a79f4c3986d474935452a199677cf338d70cbeef1d1673ef90e0b4e4f0e532e"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/has_ore/ore_dusk_stone_normal.json"
+hash = "7a6945da5465685399d30173c37da5c7fa1fb26527f1f3a708a253fe22f5a736"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/has_ore/ore_dusk_stone_rare.json"
+hash = "a3f5b642c0f755c60114b6c615a4cbdfd063d9aa0f193e71370f08fdfcf3a92f"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/has_ore/ore_fire_stone_normal.json"
+hash = "792ebde42d9bb1cbf3ef61098ec6ae9f9f6db82fbe0b8a0cdf92760028ee4114"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/has_ore/ore_fire_stone_rare.json"
+hash = "30aa0e34c571a3db8901aaf51091fcaf9b2b3fa725c2afed914012a31411510f"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/has_ore/ore_ice_stone_normal.json"
+hash = "7feff8e3fed49c04d9e8aaebe814e9d45de32d415bcf81832b34c0c8510331f7"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/has_ore/ore_ice_stone_rare.json"
+hash = "e5e181e50eef1236fa41faca289847ea9912eaec17342cdd4a097db94cdd7dee"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/has_ore/ore_leaf_stone_normal.json"
+hash = "e6b3ddaba64f90fbfe505031fb1fe1c6afa1279bcf1c79fd8a04faf620aa6352"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/has_ore/ore_leaf_stone_rare.json"
+hash = "94e96481395bb3bf730e5aacdf7a737e60fc65d784c77fc71213aad506e34018"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/has_ore/ore_moon_stone_dripstone.json"
+hash = "e5ebb0eef4e26852afe36d7697d01cfd4b0ba4f187a1614b96568ecf2bf75375"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/has_ore/ore_moon_stone_normal.json"
+hash = "0c13a96efce902817539fa03e4f3355c997c95ddc15cadf57ba35ee4e164664f"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/has_ore/ore_moon_stone_rare.json"
+hash = "060f1494878587e84d2c53d9b766d6e27f5dd05f9b0afead62e3e45a98dffe58"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/has_ore/ore_shiny_stone_normal.json"
+hash = "a5431c9782c481f61e63ebf70b13b12047833851ca51b95afbde1fba7b708d2c"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/has_ore/ore_shiny_stone_rare.json"
+hash = "775a21d505d208eb003203f89ac3877d878c9993e7e391b77ecbc6cc010d5881"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/has_ore/ore_sun_stone_normal.json"
+hash = "05c2bdc8c27f66501146940265104b2997d667b9f7d05452dd95f66ed9b6fc5c"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/has_ore/ore_sun_stone_rare.json"
+hash = "4316e9f9c3245d6ba703139b82fd6af0208af3a4ec8aec89fd9742e27a3ba413"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/has_ore/ore_thunder_stone_normal.json"
+hash = "d3ba189746ce3e3abb5b0685f4c4637674d279ed36a4187b0df6acf6b1896073"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/has_ore/ore_thunder_stone_rare.json"
+hash = "35107674af4bd8f0249fa9e345c5fab33adc26ab3950c4411d7b8ae994972577"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/has_ore/ore_water_stone_normal.json"
+hash = "7c9304759a545b7dc8fbe35b83e97aad88e07829d614602037269c5795eb2890"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/has_ore/ore_water_stone_rare.json"
+hash = "33859c0565790060d3950f3fc16e1be692d543caa760fb246e841b34942d5d7f"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_abyss.json"
+hash = "5ffe47ed9ed5a8495baeb45b4f7fb73ca4c10862b5b5c8aab923574d04b00fb2"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_arid.json"
+hash = "ec8d43c45dd5d7fd8c5dc92f5f5c99275e2f9328110b652fb8a4e3bbc4e622ca"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_autumn.json"
+hash = "dc3143431b4ee67717c5d48034bb6d932b72286df7c250cf1d690ed5643f220a"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_badlands.json"
+hash = "abf3472083ad8767728cf9176c60bcce764f9dc00abbbdba07af296d995074d8"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_bamboo.json"
+hash = "02d1ee0c713c4ff5926f551b528fa443650c9a2cb6f58d29339ac81a3de3878a"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_cave.json"
+hash = "56f36fd2cf9a649d92d7281ec6fb305bb7d9dbfa69a0f344ee1fdc655857c533"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_coast.json"
+hash = "0ebb00de997de4bfaf337f536505e5ffa144e2fed6ed83006d6f8b52c1aca05b"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_cold.json"
+hash = "e9de08a42a88c5eb059a5016f81e57d891d0887a437403a8c0038eb96f478aab"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_deep.json"
+hash = "e3b9627bc8ba48db3d03d7a7c52315e1058306d09d29dde2eb23cd39bf5bb8fc"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_desert.json"
+hash = "c923479c9f47650ec9b12e5874e15d3ae3a1526d38fb5d80024d76e6d7641037"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_dripstone.json"
+hash = "1c2ab183a59c46f2d3aa6385f73350b5193f5e1c7f77ab5fffc0aa3bcec5a0f4"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_floral.json"
+hash = "ba54f00d645c5a7b5b9edd3303366c58ae29437cfecc7bfc7a7333d36a040650"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_forest.json"
+hash = "46417d0e24dccc83b9124cf603a2aa83ef3cd335cf679a0091aee50d32dc4ad4"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_freezing.json"
+hash = "91487f6b3f2a87b7ac9ee2fdcc6d77c0a0b58e8fa8dfdf64fd6dd8a8b5e6667a"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_freshwater.json"
+hash = "84762f28813a094cee2f7c06932682900df98e520bac244d2bcfdaf01edddee6"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_frigid.json"
+hash = "dd72deb8802e99fbb38da65a6f9c5db5361b372a8af16c0760002017c579b23f"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_frozen.json"
+hash = "50828a95dcb93748ddfb031d1cd6be30133066fc9273ca11a195b5a6296f1c0b"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_glacial.json"
+hash = "c9a5fe90f9fe5e9fd5ca8f1346c873454dfac973c900315dc614d567bcddd922"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_grassland.json"
+hash = "5ff15a74e61d131286820fc29439868ac9f1ab2df943e1d195a1733d55adf2c5"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_highlands.json"
+hash = "9e5a3ecea412f3b6af089a31a829be63178bfa4b91751db22a93737b223fe055"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_hills.json"
+hash = "8e7597cea0205ecbe775a37a38331eeb814de807dd63d6615087838db9915fad"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_island.json"
+hash = "2ba2c82d87ff21129b3724034af4cae30ac4a9376abbc72d2bdc982149e8f981"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_jungle.json"
+hash = "243f0ce4d316e1e9f4da83ce8668db4c7b678314056844a683971a1de9322b3a"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_lukewarm.json"
+hash = "469efbac47bc776dd212c3407174160901ab93504a8de0af6468a1382847ced7"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_lush.json"
+hash = "1882d7a1126d5fb97dc7447803d9e2f42ac0548b1f658fb62c21508092600716"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_magical.json"
+hash = "b66a72acb730daee018203bf0d16005d9bc3593fe891675c736646ba55528e9e"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_mountain.json"
+hash = "5ccdc27cce17dc38943303a35116b3ad220d5122f8e323a3230b485f06ded57b"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_mushroom.json"
+hash = "8b2d82a0cb965891cffeea24b1e4d6ac4909a07355b7fee6b45fbd4830a0355f"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_overworld.json"
+hash = "08ae8f05ae2907c7bd5c2484a0ee3af3f165038c2fd1ef0e8564f9c1bce25b0d"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_peak.json"
+hash = "402dfe2fa8dfc4c2618123a12634de25e4d8d50eae0f21283e99d01c9585f60f"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_plains.json"
+hash = "cd9421c448e44873da51f2968b175d984edd868475ff93c134b83dfc3e322f7d"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_plateau.json"
+hash = "c90bc256758c12ad5324159acb79dad58447120847b8a40f06ca8eae5805589d"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_reef.json"
+hash = "85d0185259257071342056f9aec626e25cc39a7810f2b2215d43b72c8b46cacc"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_river.json"
+hash = "47104d2b4f14d7c84b3424653acb0d753ddc8ee3c2dec312d10399410e1a4941"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_sandy.json"
+hash = "defb85ad7d4c543dc5c534fe701a01de327be96ffb0428737f0d93c14b562734"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_savanna.json"
+hash = "d1b1dffacc2644435e6a12fc0ab2cdd23e65a2995b8f955d1acea97b39b473dd"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_sky.json"
+hash = "58c2dc59dd14d2ef907c950d79a249806e6b0cafbe9e28a729059fdff200b5f8"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_snowy.json"
+hash = "248161b6e90762575cfa31f46f911f76b73b321136778f85a1787f3c3d9b6e35"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_spooky.json"
+hash = "54d58da596a427249599de0480a80a7263113399b5e938235bd44e4a8a87917d"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_spring.json"
+hash = "967bfebc8d7714e26c6364f1f35c011cc0469b2a002795fe71916c9b849f0d26"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_summer.json"
+hash = "46f6076bf1d9e1fc527072e44858237cab842e944e66357ca592eb37ede03388"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_swamp.json"
+hash = "63040832dcb4949b175931ac2521be963e61a13ee0b3039cfbd7638e340fea6c"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_taiga.json"
+hash = "9548af1074d5b0cb5ed9541ef6b06932c64726379af1ee8899ce36bd9ee16802"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_temperate.json"
+hash = "f5875c777f27fe323c98b35f7f71359e50f10ca4e29b57d39b66f500d176e1d7"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_thermal.json"
+hash = "df15ff3e54654c4881f9134394ca4bafaa0d0fec5294bb07775f00c794219c7f"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_tundra.json"
+hash = "67f4dae5e09ea4c7a07719ef94fc7467667bbf862265a0e992f917c83e8767e7"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_void.json"
+hash = "97ca380ed7fcd053c225910dc16bcffb7a7a541df3852b8c919467b88ccd33a9"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_volcanic.json"
+hash = "6248cbe90238868b212e260d83c634f2a0bf2fcf917fed9bcde12c9ed406f054"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/data/cobblemon/tags/worldgen/biome/is_winter.json"
+hash = "e1d5f61acc713e2faca30ac98ecb6026e602465c5c87bd657bdc42edb002290a"
+
+[[files]]
+file = "global_packs/required_data/cobblemon_biome_compat/pack.mcmeta"
+hash = "b1a43bdb582dfb686ab25fe82a13681d87603ae13559659bc4a7df5e8933cb30"
+
+[[files]]
+file = "global_packs/required_resources/Kiece_XaerosMinimap_Cobblemon_v4.1.zip"
+hash = "d8f3aa33a6333a2219c2cf967216fa26dd144c02c465c267d9929c8e4797d968"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "02d6feb3afe1d9c96e137f8baaa71de982f1af0a2b37fbcba73f34ee59ebbd4d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/client_scripts/script.js"
+hash = "f7534f18e0e6a728766a0f7464a58198c8995a2f330d8767737f71575da38693"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "7419be1ce6baa9256d35d05563304b4481e5da5395256483275926481377589b"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "17bb3967a7fc8c9690337d90a34f7f11c263a861545b44afd111e4c14b0c401d"
+
+[[files]]
+file = "kubejs/exported/tags/forge/biome_modifier.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/forge/entity_data_serializers.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/forge/fluid_type.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/forge/global_loot_modifier_serializers.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/forge/structure_modifier.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/activity.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/attribute.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/banner_pattern.txt"
+hash = "ffc5fd68ef9387f44330006058486601e91d5277c83222075d799cebfcc22f9f"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/block.txt"
+hash = "d1c9357dfd097146862b81a6f4349093ab70d03761dd6e15de370143c5772599"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/block_entity_type.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/block_predicate_type.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/cat_variant.txt"
+hash = "92063ddd3ed259751238f573c50bb212737733c9872cb94f0f61e35303f25aba"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/chat_type.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/chunk_status.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/command_argument_type.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/custom_stat.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/dimension_type.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/enchantment.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/entity_type.txt"
+hash = "36caa5623a6217b972b7441eef873b27739bfd86c8e383d24a71c01779a1f5b8"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/float_provider_type.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/fluid.txt"
+hash = "7edf4940a0b95c1283ae13078e5251f6055124841ccea03fa1230f289d59e803"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/frog_variant.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/game_event.txt"
+hash = "81a33c194737d901dc1c75d52ef62bc689fe9956fd3727d8b316e485ffd62dfd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/height_provider_type.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/instrument.txt"
+hash = "f3748fc872b98a2e1837e258e803fe0d2a37a7a803f82835791d162cb85c8c32"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/int_provider_type.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/item.txt"
+hash = "b41b750eda5d8884ef563a61833552ed493736550cfa3a1f323a4dd2ce61c6ce"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/loot_condition_type.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/loot_function_type.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/loot_nbt_provider_type.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/loot_number_provider_type.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/loot_pool_entry_type.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/loot_score_provider_type.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/memory_module_type.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/menu.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/mob_effect.txt"
+hash = "981388210e0fea9c041c8655a476328c46af38cff61d885d9336659e4f9d8408"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/painting_variant.txt"
+hash = "50a0ce5cdcb3894dd59a9a74a8f8ceb2426d3583b34b09629f9bfb17a00a8157"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/particle_type.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/point_of_interest_type.txt"
+hash = "d852717a4bc044d03faf5a01922be9ea10d49497660c5e6a0698f330fd4b457b"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/pos_rule_test.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/position_source_type.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/potion.txt"
+hash = "57668b8b392bda0a3fd25aa8781cbe4dcf0ed4fb27ada2439e47e00357be76af"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/recipe_serializer.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/recipe_type.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/rule_test.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/schedule.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/sensor_type.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/sound_event.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/stat_type.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/villager_profession.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/villager_type.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/worldgen/biome.txt"
+hash = "bf0a2da52068222aa924957b30e7c0fed9ea4864777b64dff038a2d315b12f57"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/worldgen/biome_source.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/worldgen/block_state_provider_type.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/worldgen/carver.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/worldgen/chunk_generator.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/worldgen/configured_carver.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/worldgen/configured_feature.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/worldgen/density_function.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/worldgen/density_function_type.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/worldgen/feature.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/worldgen/feature_size_type.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/worldgen/flat_level_generator_preset.txt"
+hash = "e21951ed614dc8fb7304c81526bcff6738694a26e76fccbbf6a2f96235891ccb"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/worldgen/foliage_placer_type.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/worldgen/material_condition.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/worldgen/material_rule.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/worldgen/noise.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/worldgen/noise_settings.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/worldgen/placed_feature.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/worldgen/placement_modifier_type.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/worldgen/processor_list.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/worldgen/root_placer_type.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/worldgen/structure.txt"
+hash = "288942399696d267d59751866a45f34a07656c3b63215e8d0afafb203183677b"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/worldgen/structure_piece.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/worldgen/structure_placement.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/worldgen/structure_pool_element.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/worldgen/structure_processor.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/worldgen/structure_set.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/worldgen/structure_type.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/worldgen/template_pool.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/worldgen/tree_decorator_type.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/worldgen/trunk_placer_type.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/minecraft/worldgen/world_preset.txt"
+hash = "e197aa49389912c172ac1b898c9411c9c30235db5f708360f1afc16f4781f39a"
+
+[[files]]
+file = "kubejs/exported/tags/moonlight/map_markers.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/exported/tags/moonlight/soft_fluids.txt"
+hash = "072d2c1419a9f04691bfe5b9f1e40ab89f6136068318fa8caa99db812b4e59dd"
+
+[[files]]
+file = "kubejs/server_scripts/script.js"
+hash = "ef5ab60a74ef806a07d60f8a083dc78379275b398e6595ca94a50180a8797c7b"
+
+[[files]]
+file = "kubejs/startup_scripts/script.js"
+hash = "69a0c97276f7c50dab7e9f6e701f565425eb7f32319eb5e9a639fefb30a4254d"
+
+[[files]]
 file = "mods/abnormals-delight.pw.toml"
 hash = "f56d703c037bd522cd1da3fd61431a4824b1d73f263a31e52b586d14189610d1"
 metafile = true
@@ -263,9 +1187,4 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "2faca8e13d76f7e3c93a66456d193df7f3d91b084a24b277fb9540ff3bf9bc39"
-metafile = true
-
-[[files]]
-file = "plugins/simple-voice-chat.pw.toml"
-hash = "7cca3343c09e1fbb6751fbd70c8e5d153f3ae09dc70bd5e713b14fd19d44f573"
 metafile = true
