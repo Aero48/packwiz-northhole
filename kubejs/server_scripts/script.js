@@ -75,3 +75,10 @@ ServerEvents.tags('item', event => {
 	// Get the #forge:cobblestone tag collection and remove Mossy Cobblestone from it
 	// event.get('forge:cobblestone').remove('minecraft:mossy_cobblestone')
 })
+
+ServerEvents.loaded(event => {
+	event.server.schedule(5000, () => {
+		Utils.server.runCommand('tellraw @p {"text":"Notice: due to a KubeJS bug, scripts must be reloaded on world load. This may take a second...","bold":true}')
+		Utils.server.runCommand('reload')
+	})
+})
