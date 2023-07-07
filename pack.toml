@@ -1,0 +1,13 @@
+name = "North Hole V2"
+author = "Aero"
+version = "0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5568dc8d98fc99c91727837721c02f7a43fa30f79b4fcbc0476ac6a7608e15e2"
+
+[versions]
+forge = "43.2.14"
+minecraft = "1.19.2"

@@ -1,0 +1,13 @@
+name = "Cobblemon"
+filename = "Cobblemon-forge-1.3.2+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ebcb82747a307c118dac6e8cfdbc47c44a65c807"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4468321
+project-id = 687131
