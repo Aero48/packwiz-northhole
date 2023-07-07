@@ -1070,8 +1070,8 @@ hash = "4197e21b90ffc991b42fb07a8e2c55824ba30f66185688a1e63ddbbecd10937e"
 metafile = true
 
 [[files]]
-file = "mods/lightspeedmod.pw.toml"
-hash = "8bcd18e098706a797aee9ab5ef20c526d3431a11f15e2f66f8389e16d62c3b0e"
+file = "mods/lightspeed.pw.toml"
+hash = "629a7dfecb54e5ce1f1bf11a5e6cad5d4268567a797a401903c5bb837efe0687"
 metafile = true
 
 [[files]]
