@@ -43,27 +43,27 @@ ServerEvents.recipes(event => {
 	//rope pulley
 	event.replaceInput({id: 'create:crafting/kinetics/rope_pulley'}, '#minecraft:wool', 'supplementaries:rope')
 
-	//egg
-	event.remove({ output: 'farmersdelight:fried_egg' })
+	// //egg
+	// event.remove({ output: 'farmersdelight:fried_egg' })
 
-	//milk
-	event.remove({ output: 'farmersdelight:milk_bottle' })
+	// //milk
+	// event.remove({ output: 'farmersdelight:milk_bottle' })
 
-	//pancake
-	event.remove({ output: 'autumnity:pancake' })
+	// //pancake
+	// event.remove({ output: 'autumnity:pancake' })
 
-	//Honey apple
-	event.remove({ output: 'buzzier_bees:honey_apple' })
+	// //Honey apple
+	// event.remove({ output: 'buzzier_bees:honey_apple' })
 })
 
 LootJS.modifiers((event) => {
 	event
 		.addLootTypeModifier(LootType.CHEST)
 		.replaceLoot("farmersdelight:rope", "supplementaries:rope", true)
-		.replaceLoot("farmersdelight:fried_egg", "incubation:fried_egg", true)
-		.replaceLoot("autumnity:pancake", "supplementaries:pancake", true)
-		.replaceLoot("buzzier_bees:honey_apple", "create:honeyed_apple", true)
-		.replaceLoot("create:bar_of_chocolate", "neapolitan:chocolate_bar", true);
+		// .replaceLoot("farmersdelight:fried_egg", "incubation:fried_egg", true)
+		// .replaceLoot("autumnity:pancake", "supplementaries:pancake", true)
+		// .replaceLoot("buzzier_bees:honey_apple", "create:honeyed_apple", true)
+		// .replaceLoot("create:bar_of_chocolate", "neapolitan:chocolate_bar", true);
 
 
 });
@@ -76,9 +76,9 @@ ServerEvents.tags('item', event => {
 	// event.get('forge:cobblestone').remove('minecraft:mossy_cobblestone')
 })
 
-ServerEvents.loaded(event => {
-	event.server.schedule(5000, () => {
-		Utils.server.runCommand('tellraw @p {"text":"Notice: due to a KubeJS bug, scripts must be reloaded on world load. This may take a second...","bold":true}')
-		Utils.server.runCommand('reload')
-	})
-})
+// ServerEvents.loaded(event => {
+// 	event.server.schedule(5000, () => {
+// 		Utils.server.runCommand('tellraw @p {"text":"Notice: due to a KubeJS bug, scripts must be reloaded on world load. This may take a second...","bold":true}')
+// 		Utils.server.runCommand('reload')
+// 	})
+// })
